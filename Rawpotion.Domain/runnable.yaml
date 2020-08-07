@@ -1,0 +1,7 @@
+services:
+  rawpotion.domain:
+    environments:
+      dev: 
+        command: 'dotnet run'
+      restore:
+        command: 'dotnet restore'
