@@ -1,9 +1,8 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
-using Rawpotion.Domain.GraphQL;
 using Microsoft.IdentityModel.Tokens;
-
+using Rawpotion.Domain.GraphQL;
 
 namespace Rawpotion.Domain
 {
